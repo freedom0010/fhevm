@@ -1,6 +1,6 @@
 # 🔐 FHEVM Confidential Counter
 
-基于 [Zama FHEVM](https://docs.zama.ai/) 的机密计数器，部署于 Sepolia 公共测试网。
+基于 [Zama FHEVM](https://docs.zama.ai/) 的机密计数器，部署于 Sepolia 公共测试网。 TEST 
 
 ## 🚀 快速开始
 
@@ -37,3 +37,4 @@ npm run deploy
 - Hardhat
 - Ethers.js
 - Zama Sepolia 测试网
+- 
